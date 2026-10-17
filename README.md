@@ -191,6 +191,16 @@ Based on the analysis, the following actions are recommended:
 - Production event streams, authoritative ledger records, and validated user-level funnel definitions were not supplied.
 - Market and competitor research provides public product context, not evidence of internal competitor performance.
 
+Interactive Analytics Dashboard
+
+View or download the VELOOP Rewards analytics dashboard:
+
+View Dashboard HTML — Open the dashboard file in the repository.
+
+**Download Dashboard **— Download the HTML file and open it in Chrome.
+
+Note: GitHub's file viewer may show the raw HTML instead of rendering the interactive dashboard. Download the file and open it locally, or publish it using GitHub Pages.
+
 ## Conclusion
 
 This project demonstrates a structured approach to data analysis, data-quality validation, SQL-based investigation, dashboard development, KPI definition, and business recommendation development.
